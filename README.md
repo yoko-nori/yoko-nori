@@ -17,3 +17,19 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoko-nori)](https://github.com/anuraghazra/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoko-nori)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yoko-nori)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://raw.githubusercontent.com/ishige-shogo/ishige-shogo/main/profile-summary-card-output/github/0-profile-details.svg" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishige-shogo&show_icons=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishige-shogo&layout=compact" />
+</a>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ishige-shogo&title=Joined2020,Commit,PullRequest,Repositories,Issues" />
+</a>
