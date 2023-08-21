@@ -1,4 +1,4 @@
-<h1 align="left">🎮About yoko-nori:</h1>
+<h1 align="left">🎮About yoko-nori</h1>
 Hi, I'm GameEngineer and MechatronicsEngineer!     
 
 Now I'm also studying web and design.     
