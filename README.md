@@ -8,6 +8,6 @@ Now I'm also studying web and design.
 
 <h2 align="left">Status:</h2>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoko-nori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoko-nori)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yoko-nori&title=Joined2020,Commit,PullRequest,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)
