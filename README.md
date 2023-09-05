@@ -5,6 +5,7 @@ Now I'm also studying web and design.
 
 <br>
 ( I'm in Github training...   But it's several times more fun than I imagined ! )
+(One month of GitHub training is over!  I had a lot of fun, even though I kept fighting conflicts.)
 
 <br>
 <h2 align="left">🌱My favorite Languages and Tools:</h2>
